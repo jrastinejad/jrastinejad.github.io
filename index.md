@@ -3,6 +3,4 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I am a Presidential Fellow and Astronomy Ph.D. Candidate at Northwestern University. I leverage rapid-response observations from premiere telescopes (like Gemini-North Observatory, pictured here!) to study the astrophysical origins of the heavy elements, including silver and gold. My research aims to answer questions such as, What are the explosions that create heavy elements? What can these explosions teach us about black holes and neutron stars? When did the heavy elements - including those necessary for life on Earth - enter our Universe?
