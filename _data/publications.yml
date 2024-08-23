@@ -1,10 +1,5 @@
 featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-
-index:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+- {name: 'A Hubble Space Telescope Search for r-Process Nucleosynthesis in Gamma-ray Burst Supernovae. Rastinejad, J. C., Fong, W., Levan, A. J. et al. 2024.', url: 'https://ui.adsabs.harvard.edu/abs/2024ApJ...968...14R/abstract'}
+- {name: 'A Kilonova Following a Long-Duration Gamma-ray Burst at 350 Mpc. Rastinejad, J. C., Gompertz, B. P., Levan, A. J. et al. 2022.', url: 'https://ui.adsabs.harvard.edu/abs/2022Natur.612..223R/abstract'}
+- {name: 'A Systematic Exploration of Kilonova Candidates from Neutron Star Mergers During the Third Gravitational Wave Observing Run. Rastinejad, J. C., Paterson, K., Fong, W. et al. 2022.', url: 'https://ui.adsabs.harvard.edu/abs/2022ApJ...927...50R/abstract'}
+- {name: 'Probing Kilonova Ejecta Properties Using a Catalog of Short Gamma-Ray Burst Observations. Rastinejad, J. C., Fong, W., Kilpatrick, C. D. et al. 2021.', url: 'https://ui.adsabs.harvard.edu/abs/2021ApJ...916...89R/abstract'}
