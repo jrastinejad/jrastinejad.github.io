@@ -11,4 +11,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Jillian Rastinejad', title: 'Northwestern Presidential Fellow and PhD Candidate', department: 'CIERA & Dept. of Physics & Astronomy', institution: 'Northwestern University', phone: '(000) 000-0000', email: 'jillianrastinejad2024 [at] u.northwestern.edu', office: '1800 Sherman Ave., Evanston, IL, USA', image: 'assets/img/headshot.jpg'}
+- {name: 'Jillian Rastinejad', title: 'Northwestern Presidential Fellow', department: 'Center for Interdisciplinary Exploration and Research in Astrophysics (CIERA) and Department of Physics and Astronomy', institution: 'Northwestern University', phone: '(000) 000-0000', email: 'jillianrastinejad2024 [at] u.northwestern.edu', office: '1800 Sherman Ave., Evanston, IL, USA', image: 'assets/img/headshot.jpg'}
