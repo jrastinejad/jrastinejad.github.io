@@ -9,21 +9,16 @@ layout: default
     <h3 class="fw-bold border-bottom pb-3 mb-5">CV</h3>
     <div class="row g-5 mb-5">
       <div class="col-md-2">
+        <h2>My full C.V. is available at the link below.</h2>
+      </div>
+      <a href="{{ site.github.url }}/assets/JCR_CV_Aug2024.pdf" target="blank"></a>
+    </div>
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
         <h4>Education</h4>
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.education %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
-        {% endfor %}
-      </div>
-    </div>
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
-        <h4>Academic Experience</h4>
-      </div>
-      <div class="col-md-10">
-        {% for section in site.data.cv.academic-experience %}
           <p class="fw-bold">{{ section.title }}</p>
           <p>{{ section.description }}</p>
         {% endfor %}
