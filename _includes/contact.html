@@ -9,12 +9,6 @@
         <p>{{ contact.institution }} </p>
         <p>Office: {{ contact.office }}</p>
         <p>Email: {{ contact.email }}</p>
-        <figure>
-          <img src="{{ site.github.url }}/assets/img/kilonova.jpeg" alt="Kilonova" width="100%">
-          <figcaption>
-            <i>Artist's Impression of a Kilonova.</i>Image Credit: Aaron Geller, Northwestern University
-          </figcaption>
-        </figure>
       </div>
       <div class="col-md-6">
         <figure>
@@ -22,6 +16,14 @@
           <figcaption>Photo Credit: Dennis Lee</figcaption>
         </figure>
       </div>
+    </div>
+    <div>
+      <figure>
+        <img src="{{ site.github.url }}/assets/img/kilonova.jpeg" alt="Kilonova" width="100%">
+        <figcaption>
+          <i>Artist's Impression of a Kilonova.</i> Image Credit: Aaron Geller, Northwestern University
+        </figcaption>
+      </figure>
     </div>
     {% endfor %}
   </div>
