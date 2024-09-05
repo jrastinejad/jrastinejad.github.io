@@ -8,8 +8,10 @@
     {% if page.title == "Home" %}
       {% for item in site.data.publications.featured %}
         <div>
-          {{ item.name }} 
-          <a href="{{ item.url }}">{{ item.ref }}</a>
+          <p>
+            {{ item.name }} 
+            <a href="{{ item.url }}">{{ item.ref }}</a>
+          </p>
         </div>
       {% endfor %}
     {% else %}
