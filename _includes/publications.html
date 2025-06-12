@@ -6,7 +6,7 @@
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
     {% if page.title == "Home" %}
-      <p>First-Author:</p>
+      <h4>First-Author:</h4>
       {% for item in site.data.publications.featured %}
         <div>
           <p>
@@ -20,7 +20,7 @@
       {% endfor %}
     {% else %}
       <p>A full list of my publications is available on <a href="https://ui.adsabs.harvard.edu/public-libraries/oFpcy8qfT4-ZyQJYnV3PxQ">ADS</a></p>
-      <p>First-Author:</p>
+      <h4>First-Author:</h4>
       {% for item in site.data.publications.featured %}
       <div>
         <p>
